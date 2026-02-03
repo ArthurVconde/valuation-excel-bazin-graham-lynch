@@ -1,7 +1,7 @@
 # 📊 Planilha de Valuation em Excel (Bazin, Graham e Peter Lynch)
 
 Esta planilha de valuation pessoal foi desenvolvida no **Excel Online**, com foco em **funcionalidade**. Contém métodos Bazin, Graham e Peter Lynch, aplicados a empresas do meu portfólio.
-
+Link da planilha : https://1drv.ms/x/c/f1f261ed7e16bfba/IQBMcPxOcmCtRoUJoTybuh_PAUL6KS8lcgCsT1mM6mG7_HE?e=yUwW5P
 ---
 
 ## 🎯 Objetivo
